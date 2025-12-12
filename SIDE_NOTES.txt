@@ -1,0 +1,11 @@
+I do plan to work on this a little bit more or actually probably a lot more ha ha after this is turned in.
+
+I think it would be cool to make this an actual app and use it instead of paying for a music player. This way 
+I can make it into exactly what I want and If theres is something I want different I can just change it. I just
+have to look more into making windows applications and also making an app for linux since as soon as I don't 
+need a windows machine for school I'm going to swap 100% over to linux.
+
+This project was really fun and there are still more things I want to add like an audio visuallizer that 
+I couldn't figure out how to get working, and a way to allow the user to map their own path to their own 
+music folder. I think it would also be cool if there were a way to ba able to search for music and download 
+it within the app but that is deffinatly for future me because I don't even know where I would begin for setting that up.

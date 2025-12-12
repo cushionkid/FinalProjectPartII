@@ -1,0 +1,32 @@
+
+External Requirements for Music Player
+
+These are the external packages and software needed to make the music player work.
+They are all free to download and use and should be compatible with most if not all systems.
+
+Side Note: I have no idea why this file is colored weirdly I thnk its something to do with the file being called "REQUIREMENTS" but I dont know.
+It may also just be something on VS Codes end so if it looks normal to you just ignore this side note lol.
+
+
+
+# Python Packages:
+1. python-vlc
+   - Command: py -m pip install python-vlc
+   - Purpose: Python bindings for VLC media player to handle audio playback
+
+# External Software:
+1. VLC Media Player
+   - Download from: https://www.videolan.org/vlc/
+   - Purpose: Required for python-vlc to work (provides the actual audio playback engine)
+   - Installation: Download and run the installer, use default settings
+
+# Built-in Python Libraries (These should be already be built in with Python but it wouldn't hurt to double check cause computers are weird lol):
+- tkinter (GUI framework - comes with Python)
+- os (file operations)
+- pathlib (file path handling)
+
+# Installation Steps:
+1. Install VLC Media Player from https://www.videolan.org/vlc/
+2. Open terminal/command prompt
+3. Run: py -m pip install python-vlc
+4. Ensure you have MP3 files in a "Music" folder in the same directory as the program

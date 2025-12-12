@@ -1,0 +1,10 @@
+To start the program enter the command py main.py, or if your code editor has a run option you can use that too
+(You may have to use python main.py or python3 main.py depending on your os and/or pythion was installed and is set up)
+
+Once in the app then you can select what ever song you want then hit the "Play" button
+
+If you want to skip the song or go back to a previous song you can use the "Next" and "Previous" buttons
+
+To pause the music hit the "Pause" button and to continue playing hit the "Play" button
+
+To stop the music hit the "Stop" Button
